@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ssr1"
+  description: "ssr1"
+  annotations:
+    github.com/project-slug: "alokmaurya1/ssr1"
+    backstage.io/techdocs-ref: github:https://github.com/alokmaurya1/ssr1
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "alokmaurya1"

@@ -1,0 +1,8 @@
+site_name: "ssr1"
+site_description: "ssr1"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
